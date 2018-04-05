@@ -1,1 +1,2 @@
 # Trabalho-JS
+Trabalho individual
