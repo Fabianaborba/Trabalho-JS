@@ -1,4 +1,4 @@
-﻿// 2. Escrever um programa que escreva seu nome, sua data de nascimento e o número do seu telefone.
+// 3. Escrever um programa que escreva seu nome, sua data de nascimento e o número do seu telefone.
 
 var nome;
 var data_nasc, tel;
