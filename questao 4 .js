@@ -1,4 +1,4 @@
-﻿3//. Solicitar um número para um usuário e informar se o número é par ou ímpar.
+// 4. Solicitar um número para um usuário e informar se o número é par ou ímpar.
 
 var numero, nome;
 	numero = prompt (" Digite um numero: ");
