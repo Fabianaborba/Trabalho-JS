@@ -1,4 +1,4 @@
-﻿10. Faça um programa que solicite 3 números e escreva na tela qual é o maior dos 3 números.
+// 10. Faça um programa que solicite 3 números e escreva na tela qual é o maior dos 3 números.
 
 var num1, num2, num3;
 
