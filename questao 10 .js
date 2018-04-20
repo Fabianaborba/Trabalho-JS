@@ -2,16 +2,16 @@
 
 var num1, num2, num3;
 
-	num1 = Number(prompt(" digite um num:"));
-	num2 = Number(prompt(" digite um num:"));
-	num3 = Number(prompt(" digite um num:"));
+num1 = Number(prompt(" digite um num:"));
+num2 = Number(prompt(" digite um num:"));
+num3 = Number(prompt(" digite um num:"));
 
-		if (num1 > num2 && num1 > num3){
-		alert (" o maior numero eh :" + num1);
-		}
-		else if ( num2 > num1 && num2 > num3){
-			alert (" o maior numero eh:" + num2);
-		}
-		else if ( num3 > num1 && num3 > num2){
-			alert (" o maior numero e:" + num3);
-		}
+	if (num1 > num2 && num1 > num3){
+	alert (" o maior numero eh :" + num1);
+	}
+	else if ( num2 > num1 && num2 > num3){
+	alert (" o maior numero eh:" + num2);
+	}
+	else if ( num3 > num1 && num3 > num2){
+	alert (" o maior numero e:" + num3);
+	}
