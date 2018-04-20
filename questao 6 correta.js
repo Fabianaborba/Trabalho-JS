@@ -2,17 +2,17 @@
 
 var a, b, c;
 var x1,x2, delta;
-	a = prompt("Numero:");
-	b = prompt("Numero:");
-	c = prompt("Numero:");
+a = prompt("Numero:");
+b = prompt("Numero:");
+c = prompt("Numero:");
 
-	delta = (b*b) - (4*a*c);
-	x1 = (-b + Math.sqrt(delta) ) / (2 * a);
-	x2 = (-b - Math.sqrt(delta) ) / (2 * a);
+delta = (b*b) - (4*a*c);
+x1 = (-b + Math.sqrt(delta) ) / (2 * a);
+x2 = (-b - Math.sqrt(delta) ) / (2 * a);
 
-		if (delta < 0){
-		alert ("Nao existe solucao nos reais");
-		}
-		else{
-		alert ("existe");		
-		}
+	if (delta < 0){
+	alert ("Nao existe solucao nos reais");
+	}
+	else{
+	alert ("existe");		
+	}
