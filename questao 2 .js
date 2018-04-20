@@ -1,4 +1,4 @@
-/* 2.screva um programa que solicite o nome do usuário e escreva o Boa noite e o  nome da pessoa.  Exemplo: Qual seu nome:
+/* 2. Escreva um programa que solicite o nome do usuário e escreva o Boa noite e o  nome da pessoa.  Exemplo: Qual seu nome:
 Boa noite, João. */
 
 var nome;
