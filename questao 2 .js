@@ -2,6 +2,6 @@
 Boa noite, João. */
 
 var nome;
-	nome=prompt(" Digite o nome: ");
-	alert(" Boa noite, " + nome);
+nome=prompt(" Digite o nome: ");
+alert(" Boa noite, " + nome);
 
